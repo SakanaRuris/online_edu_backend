@@ -12,16 +12,16 @@ import org.springframework.stereotype.Component;
 @Component
 public class ConstantPropertiesUtils implements InitializingBean {
 
-    @Value("${aliyun.oss.file.endpoint}")
+    @Value("aliyun.oss.file.endpoint") // your endpoint
     private String endpoint;
 
-    @Value("${aliyun.oss.file.keyid}")
+    @Value("aliyun.oss.file.keyid") //endpoint keyid
     private String keyId;
 
-    @Value("${aliyun.oss.file.keysecret}")
+    @Value("aliyun.oss.file.keysecret") // your keysecret
     private String keySecret;
 
-    @Value("${aliyun.oss.file.bucketname}")
+    @Value("aliyun.oss.file.bucketname") // your buckname
     private String bucketName;
 
     public static String END_POINT;
