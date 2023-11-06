@@ -10,8 +10,8 @@ import java.util.Properties;
  * @since 2023/10/11 21:35
  */
 public class MailUtils {
-    static final String username = "cxyu0101@gmail.com";
-    static final String password = "eenaqzklhpdzlnwr";
+    static final String username = "xxxxxx@gmail.com"; //Use your email
+    static final String password = "xxxxxxxxxxxx"; //Use your security code
 
     public static boolean sendMail(String mailAddress, String title, String context) {
 
