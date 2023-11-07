@@ -35,8 +35,8 @@ The backend of an online education website。基于SpringBoot的项目，采用B
 #### 登录注册
 
 <div>
-    <img src="https://guliedu-2002.oss-ap-northeast-1.aliyuncs.com/course/login.png"/>
-    <img src="https://guliedu-2002.oss-ap-northeast-1.aliyuncs.com/course/register.png" />
+    <img src="https://guliedu-2002.oss-ap-northeast-1.aliyuncs.com/course/login.png" style="zoom:60%;" width = 50% height = 50% />
+    <img src="https://guliedu-2002.oss-ap-northeast-1.aliyuncs.com/course/register.png" style="zoom:60%;" width = 50% height = 50% />
 </div>
 
 #### 课程详情
