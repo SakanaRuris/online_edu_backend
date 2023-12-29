@@ -149,7 +149,7 @@ aliyun.oss.file.bucketname=oypicbed
 aliyun.oss.file.filehost=ossTest
 ~~~
 
->**Start the background management UI**
+>**Start the backend management UI**
 
 * https://github.com/SakanaRuris/online_edu_admin_frontend.git
 
